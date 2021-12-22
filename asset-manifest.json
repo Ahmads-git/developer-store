@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/developer-store/static/js/main.aec35ab1.js",
+    "index.html": "/developer-store/index.html",
+    "main.aec35ab1.js.map": "/developer-store/static/js/main.aec35ab1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aec35ab1.js"
+  ]
+}
